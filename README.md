@@ -67,6 +67,7 @@
 Реляционные СУБД, такие как PostgreSQL или Microsoft SQL Server.
 
 1.2. Лендинги и CRM:
+
 Лендинги: NoSQL СУБД, например, MongoDB.
 CRM: Реляционные (PostgreSQL) или NoSQL (Cassandra) СУБД, в зависимости от требований.
 
